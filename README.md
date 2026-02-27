@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonitorschikSPb
-- 👀 I’m interested in learning and C++
+- 👀 I’m interested in learning C++
 - 🌱 I’m currently learning C++
 
 <!---
